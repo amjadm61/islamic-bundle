@@ -9,4 +9,4 @@
       {"name": "allah.png", "category": "allah", "url": "https://passtheknowledge.files.wordpress.com/2014/07/27524-allah.jpg"},
       {"name": "allah.png", "category": "allah", "url": "https://fsa.zobj.net/crop.php?r=qZ0FiMVSUco3bJui8H85yVVQf6Q7F7nUfb_slQ_2Zp5rLhWli93wIFBDu1uD5FV2kGq5PvP0tc6sj_Lw4qsv5gin1YupfieibxHzhR5Talk9QXsaTVWh3pSL1kjeoxmDXw25PF4aLhS5QV3dSlN_NCuFQqrPmOpUF2OBMw"},
       {"name": "allah.png", "category": "allah", "url": "https://lh4.ggpht.com/5jsGAOpev_BadelSO3iHZP_2Q0ypMP02STPLE66Gt20b97fQIdkplYFlf95IBea1IA=h1080"}
-    ];
+    ]
